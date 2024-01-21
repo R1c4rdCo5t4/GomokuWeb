@@ -1,0 +1,3 @@
+insert into dbo.User(name, password_hash, email, rating, games_played, wins, draws, losses) values ('Ricardo', '$2a$10$j1vtulla9rWy4r0PWRnCmONQQCS.wezKP523Zx0vHpnVujzetSh9a', 'rcosta@gmail.com', 600, 0, 0, 0, 0);
+insert into dbo.User(name, password_hash, email, rating, games_played, wins, draws, losses) values ('Diogo', '$3c$82$OIADHBoidsubinpounaui.DAHNS0d7h0a7h0h90asd9a/Jysa/sle', 'Diogo@gmail.com', 600, 0, 0, 0, 0);
+insert into dbo.User(name, password_hash, email, rating, games_played, wins, draws, losses) values ('Vasco', '$2b$30$yAOIDBGaoidsAIOHISAuh.ioABD809ab08uhaop1231d/Olas/yas', 'Vasco@gmail.com', 600, 0, 0, 0, 0);
